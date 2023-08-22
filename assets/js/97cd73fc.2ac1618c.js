@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmylar_3_website=self.webpackChunkmylar_3_website||[]).push([[9452],{4784:e=>{e.exports=JSON.parse('{"permalink":"/mylar3-website/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

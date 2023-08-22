@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmylar_3_website=self.webpackChunkmylar_3_website||[]).push([[6665],{8376:e=>{e.exports=JSON.parse('{"permalink":"/mylar3-website/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
