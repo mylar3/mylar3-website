@@ -67,7 +67,9 @@ const config = {
         title: 'Mylar3',
         logo: {
           alt: 'Mylar3',
-          src: 'img/mylarlogo.svg',
+          src: '/img/mylarlogo.png',
+          height: 32,
+          width: 32,
         },
         items: [
           {
@@ -78,8 +80,21 @@ const config = {
           },
           {to: '/docs/api/intro', label: 'API', position: 'left'},
           {
+            href: 'https://discord.gg/6UG94R7E8T',
+            className: 'header-discord-link',
+            'aria-label': 'Discord server',
+            position: 'right',
+          },
+          {
+            href: 'https://forum.mylarcomics.com',
+            className: 'header-forums-link',
+            'aria-label': 'Forums',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/mylar3/mylar3',
-            label: 'GitHub',
+            className: 'header-github-link',
+            'aria-label': 'GitHub',
             position: 'right',
           },
         ],
