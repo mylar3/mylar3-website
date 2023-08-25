@@ -24,6 +24,11 @@ const sidebars = {
             collapsed: false,
             items: [
                 {
+                    type: 'doc',
+                    id: 'installation/base_requirements',
+                    label: 'Base requirements'
+                },
+                {
                     type: 'category',
                     label: 'Official methods',
                     link: {
