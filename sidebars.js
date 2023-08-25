@@ -36,9 +36,9 @@ const sidebars = {
                     },
                     items: [
                         'installation/docker',
-                        { 
+                        {
                             type: 'category',
-                            label: 'From Source',
+                            label: 'Github / Source',
                             link: {
                                 type: 'generated-index'
                             },
