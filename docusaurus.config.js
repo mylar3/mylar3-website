@@ -83,7 +83,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/docs/api/intro', label: 'API', position: 'left'},
+          {to: '/docs/api/endpoints', label: 'API', position: 'left'},
           {
             href: 'https://discord.gg/6UG94R7E8T',
             className: 'header-discord-link',
