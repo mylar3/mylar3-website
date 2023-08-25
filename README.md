@@ -1,4 +1,20 @@
-# Website
+## Mylar3 website
+
+## How to contribute
+
+**Submit any Pull Requests against the main branch.**
+
+Feel free to open an issue first to discuss what you would like to change, or hop on Discord to chat about it.
+
+## Issues
+Open issues on the [main repo](https://github.com/mylar/mylar3/) branch to keep things specfic.
+
+## Repositories
+
+* [Mylar3](https://github.com/mylar3/mylar3/)
+* [mylarcomics.com website](https://github.com/mylar3/mylar3-website)
+
+## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -23,19 +39,3 @@ $ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
