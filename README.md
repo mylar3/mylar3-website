@@ -7,12 +7,12 @@
 Feel free to open an issue first to discuss what you would like to change, or hop on Discord to chat about it.
 
 ## Issues
-Open issues on the [main repo](https://github.com/mylar/mylar3/) branch to keep things specfic.
+Open issues on the [main repo](https://github.com/mylar/mylar3/) branch to keep things all in one place.
 
-## Repositories
+## Repos
 
 * [Mylar3](https://github.com/mylar3/mylar3/)
-* [mylarcomics.com website](https://github.com/mylar3/mylar3-website)
+* [Mylar3 website (mylarcomics.com)](https://github.com/mylar3/mylar3-website)
 
 ## Website
 
