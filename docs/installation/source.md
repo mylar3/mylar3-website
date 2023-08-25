@@ -6,7 +6,7 @@ description: Install mylar3 using the source
 
 ## Requirements
 
-Besides the [base requirements](base_requirements), this method optionally depends on [git](https.www.git-scm.com) and using a [virtualenv](https://docs.python.org/3/library/venv.html)
+Besides the [base requirements](base_requirements), this method optionally depends on [git](https://www.git-scm.com) and using a [virtualenv](https://docs.python.org/3/library/venv.html)
 
 ## Using a Download {#install-source-download}
 
