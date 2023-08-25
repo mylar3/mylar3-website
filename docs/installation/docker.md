@@ -1,6 +1,12 @@
-# via Docker Image
+---
+title: Docker
+description: How to install via Docker image
+---
+# Installation - Docker Image
 
 ## Requirements
+
+In addition to the [base requirements](base_requirements):
 
 - A [docker](https://docs.docker.com/engine/install/) compatible runtime
 - basic understanding of the command line
