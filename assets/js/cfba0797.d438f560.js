@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmylar_3_website=self.webpackChunkmylar_3_website||[]).push([[578],{5202:e=>{e.exports=JSON.parse('{"title":"Guides","slug":"/category/guides","permalink":"/docs/category/guides","navigation":{"previous":{"title":"Starting Mylar3","permalink":"/docs/installation/running"},"next":{"title":"Carepackage","permalink":"/docs/guides/carepackage"}}}')}}]);
