@@ -35,16 +35,19 @@ const sidebars = {
                         type: 'generated-index',
                     },
                     items: [
-                        'installation/github',
                         'installation/docker',
-                        'installation/source',
-
+                        { 
+                            type: 'category',
+                            label: 'From Source',
+                            link: {
+                                type: 'generated-index'
+                            },
+                            items: [
+                                'installation/source',
+                                'installation/running'
+                            ]
+                        }
                     ],
-                },
-                {
-                    type: 'doc',
-                    id: 'installation/running',
-                    label: 'Running it',
                 },
             ],
         },
