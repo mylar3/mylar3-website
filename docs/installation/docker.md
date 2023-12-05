@@ -40,19 +40,19 @@ In addition to the [base requirements](base_requirements):
       ```yaml
       version: "2.1"
       services:
-      mylar3:
+        mylar3:
           image: lscr.io/linuxserver/mylar3:latest
           container_name: mylar3
           environment:
-          - PUID=1000
-          - PGID=1000
-          - TZ=Etc/UTC
+            - PUID=1000
+            - PGID=1000
+            - TZ=Etc/UTC
           volumes:
-          - /path/to/data:/config
-          - /path/to/comics:/comics
-          - /path/to/downloads:/downloads
+            - /path/to/data:/config
+            - /path/to/comics:/comics
+            - /path/to/downloads:/downloads
           ports:
-          - 8090:8090
+            - 8090:8090
           restart: unless-stopped
-          ```
+      ```
 1. Access the Web Interface under `http://<your-host>:8090`
